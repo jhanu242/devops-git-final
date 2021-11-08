@@ -3,4 +3,8 @@ changes from chinny
 this is third line
 this is fourth line from feature-1 branch
 this is fifth line from develop branch
+<<<<<<< HEAD
 these changes are from develop br
+=======
+these changes are from sprint-2 br
+>>>>>>> sprint-2
